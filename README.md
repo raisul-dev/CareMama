@@ -67,40 +67,37 @@ CareMama
 # 📸 App Screenshots
 
 ## Login Screen
-![Login](assets/GitImage/login.jpg)
+<img src="assets/GitImage/login.jpg" width="300" />
 
 ## Sign Up
-![SignUp](assets/GitImage/Sign%20up.jpg)
+<img src="assets/GitImage/Sign up.jpg" width="300" />
 
 ## Reset Password
-![ResetPassword](assets/GitImage/resetpassword.jpg)
+<img src="assets/GitImage/resetpassword.jpg" width="300" />
 
 ## User Dashboard
-![UserDashboard](assets/GitImage/User%20Deshbord.jpg)
+<img src="assets/GitImage/User Deshbord.jpg" width="300" />
 
 ## User Profile
-![UserProfile](assets/GitImage/User%20Profile.jpg)
+<img src="assets/GitImage/User Profile.jpg" width="300" />
 
 ## Doctor Details
-![DoctorDetails](assets/GitImage/Doctor%20Details.jpg)
+<img src="assets/GitImage/Doctor Details.jpg" width="300" />
 
 ## Doctor Booking
-![DoctorBooking](assets/GitImage/Doctor%20Book.jpg)
+<img src="assets/GitImage/Doctor Book.jpg" width="300" />
 
 ## Doctor Verification
-![DoctorVerification](assets/GitImage/Doctor%20Verification.jpg)
+<img src="assets/GitImage/Doctor Verification.jpg" width="300" />
 
 ## Doctor Pending Account
-![DoctorPending](assets/GitImage/Doctor%20Account%20pending.jpg)
+<img src="assets/GitImage/Doctor Account pending.jpg" width="300" />
 
 ## Admin Dashboard
-![AdminDashboard](assets/GitImage/Admin%20Deshbord.jpg)
+<img src="assets/GitImage/Admin Deshbord.jpg" width="300" />
 
 ## Admin Approval
-![AdminApproval](assets/GitImage/Admin%20Approve.jpg)
-
----
-
+<img src="assets/GitImage/Admin Approve.jpg" width="300" />
 # ⚙️ Installation
 
 Clone the repository
